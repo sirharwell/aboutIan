@@ -114,7 +114,7 @@ class Family extends Component {
             <Grid.Column style={{ paddingBottom: '5em', paddingTop: '5em' }}>
             <br/><br/>
             <Header as='h3' style={{ fontSize: '2em' }}>Liam & Charlie</Header>
-              <p style={{ fontSize: '1.33em' }}> After seven years of adventures, we decided to go for the next big one. Children Liam is the coolest kid around. He likes to laugh and will always smile for the camera. His favorite things in the world are robot vacuums and play with our echo dots. Charlie loves to say "Hi" to everyone and give them a high five. They are both adventurous and make friends with everyone they see.
+              <p style={{ fontSize: '1.33em' }}> After seven years of adventures, we decided to go for the next big one. Children. Liam is the coolest kid around. He likes to laugh and will always smile for the camera. His favorite things in the world are robot vacuums and play with our echo dots. Charlie loves to say "Hi" to everyone and give them a high five. They are both adventurous and make friends with everyone they see.
               </p>
             </Grid.Column>
           </Grid.Row>
